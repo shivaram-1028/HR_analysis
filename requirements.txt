@@ -1,0 +1,11 @@
+flask
+flask-cors
+sqlalchemy
+mysql-connector-python
+pandas
+python-dotenv
+google-generativeai
+qdrant-client
+streamlit
+requests
+plotly
